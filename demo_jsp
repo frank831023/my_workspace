@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>JSPComments</title>
+  </head>
+  <body>
+    <%! int num = 1; %>
+    <% out.println("num="+num); %>
+  </body>
+</html>
